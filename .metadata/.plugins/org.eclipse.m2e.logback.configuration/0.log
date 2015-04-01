@@ -13,3 +13,331 @@
 2015-04-01 12:46:12,622 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
 2015-04-01 12:46:12,625 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-04-01 12:46:12,625 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:00:16,828 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:00:16,829 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:00:16,831 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:00:16,831 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:00:53,192 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:00:53,192 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:00:53,194 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:00:53,194 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:01:54,452 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:01:54,453 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:01:54,458 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:01:54,459 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:01:59,928 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:01:59,929 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:01:59,962 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:01:59,962 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:02:16,426 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:02:16,427 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:02:16,436 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:02:16,437 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:06:15,522 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:06:15,522 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:06:15,524 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:06:15,526 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:20:44,396 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:20:44,397 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:20:44,402 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:20:44,403 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:20:50,720 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:20:50,720 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:20:50,722 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:20:50,723 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:22:40,536 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:22:40,542 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:22:40,558 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:22:40,562 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:22:51,000 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:22:51,001 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:22:51,004 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:22:51,005 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:23:47,583 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:23:47,583 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:23:47,586 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:23:47,587 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:24:07,722 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:24:07,723 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:24:07,728 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:24:07,729 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:25:23,818 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:25:23,822 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:25:23,827 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:25:23,827 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:25:26,526 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:25:26,527 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:25:26,531 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:25:26,531 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:25:29,385 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:25:29,385 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:25:29,387 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:25:29,388 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:28:25,230 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:28:25,230 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:28:25,238 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:28:25,238 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:29:38,579 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:29:38,579 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:29:38,601 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:29:38,601 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:34:19,808 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:34:19,809 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:34:19,824 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:34:19,824 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:34:44,865 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:34:44,865 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:34:44,866 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:34:44,867 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:34:55,795 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:34:55,795 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:34:55,802 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:34:55,802 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:35:45,068 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:35:45,068 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:35:45,069 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:35:45,069 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:35:53,003 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:35:53,003 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:35:53,007 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:35:53,007 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:36:24,001 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:36:24,001 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:36:24,002 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:36:24,003 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:37:16,205 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:37:16,205 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:37:16,207 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:37:16,207 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:37:25,968 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:37:25,968 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:37:25,988 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:37:25,989 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:38:45,284 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:38:45,284 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:38:45,286 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:38:45,286 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:39:01,957 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:39:01,957 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:39:01,959 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:39:01,959 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:39:39,284 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:39:39,284 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:39:39,285 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:39:39,286 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:40:31,301 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:40:31,308 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:40:31,310 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:40:31,310 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:40:43,079 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:40:43,079 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:40:43,081 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:40:43,081 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:43:11,632 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:43:11,632 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:43:11,633 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:43:11,635 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:43:35,792 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:43:35,792 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:43:35,795 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:43:35,795 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:43:47,806 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:43:47,806 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:43:47,807 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:43:47,807 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:43:55,043 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:43:55,043 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:43:55,045 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:43:55,046 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:44:09,170 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:44:09,170 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:44:09,172 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:44:09,172 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:44:16,488 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:44:16,488 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:44:16,490 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:44:16,490 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:46:20,957 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:46:20,957 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:46:20,958 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:46:20,959 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:47:17,506 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:47:17,508 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:47:17,513 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:47:17,513 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:47:30,253 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:47:30,253 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:47:30,257 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:47:30,258 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:50:24,687 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:50:24,687 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:50:24,688 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:50:24,689 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:51:12,048 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:51:12,048 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:51:12,050 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:51:12,050 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:51:43,252 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:51:43,252 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:51:43,256 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:51:43,256 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:51:58,382 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:51:58,382 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:51:58,385 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:51:58,385 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:52:23,772 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:52:23,772 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:52:23,773 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:52:23,774 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:52:33,469 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:52:33,469 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:52:33,470 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:52:33,470 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:53:13,606 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:53:13,608 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:53:13,613 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:53:13,613 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:54:20,458 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:54:20,459 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:54:20,476 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:54:20,477 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:55:27,985 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:55:27,985 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:55:27,987 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:55:27,988 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:57:09,301 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:57:09,302 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:57:09,308 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:57:09,308 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:58:52,630 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:58:52,630 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:58:52,632 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:58:52,632 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:59:39,907 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:59:39,907 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:59:39,909 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:59:39,909 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 13:59:48,701 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:59:48,701 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 13:59:48,705 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 13:59:48,705 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:00:15,987 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:00:15,987 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:00:15,988 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:00:15,989 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:01:25,264 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:01:25,264 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:01:25,265 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:01:25,265 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:01:51,371 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:01:51,371 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:01:51,372 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:01:51,373 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:01:58,586 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:01:58,586 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:01:58,589 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:01:58,589 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:02:03,056 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:02:03,057 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:02:03,059 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:02:03,059 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:03:19,870 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:03:19,870 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:03:19,871 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:03:19,872 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:03:23,691 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:03:23,692 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:03:23,696 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:03:23,696 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:04:40,365 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:04:40,366 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:04:40,367 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:04:40,367 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:05:07,678 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:05:07,692 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:05:07,696 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:05:07,697 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:09:32,493 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:09:32,494 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:09:32,498 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:09:32,498 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:10:19,467 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:10:19,467 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:10:19,468 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:10:19,468 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:11:34,921 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:11:34,921 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:11:34,922 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:11:34,922 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:14:35,862 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:14:35,862 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:14:35,863 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:14:35,864 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:16:09,480 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:16:09,481 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:16:09,482 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:16:09,482 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:16:19,363 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:16:19,363 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:16:19,364 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:16:19,364 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:16:35,839 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:16:35,839 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:16:35,841 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:16:35,841 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:18:22,879 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:18:22,879 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:18:22,881 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:18:22,881 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:18:59,505 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:18:59,505 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:18:59,507 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:18:59,507 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:20:22,950 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:20:22,950 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:20:22,951 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:20:22,952 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:20:36,468 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:20:36,469 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:20:36,470 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:20:36,470 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:21:26,918 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:21:26,918 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:21:26,919 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:21:26,920 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:23:46,640 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:23:46,640 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:23:46,641 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:23:46,642 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:23:54,272 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:23:54,273 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:23:54,274 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:23:54,274 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:24:12,489 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:24:12,489 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:24:12,490 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:24:12,490 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:26:02,590 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:26:02,591 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:26:02,592 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:26:02,592 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:26:14,045 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:26:14,045 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:26:14,050 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:26:14,051 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:30:02,069 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:30:02,069 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:30:02,072 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:30:02,072 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:31:24,516 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:31:24,516 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:31:24,518 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:31:24,518 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:36:06,041 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:36:06,042 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:36:06,043 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:36:06,051 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 14:36:23,458 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:36:23,458 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 14:36:23,461 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 14:36:23,462 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources

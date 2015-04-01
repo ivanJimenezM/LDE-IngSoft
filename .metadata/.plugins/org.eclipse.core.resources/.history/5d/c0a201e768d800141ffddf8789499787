@@ -1,0 +1,18 @@
+package IIS.LDE;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        
+    	DoublyLinkedList<Integer> listaDoble = new DoublyLinkedList<Integer>();
+    	
+    	Node<Integer> first = new Node<Integer>(2, null, null);
+    	Node<Integer> next = new Node<Integer>(6, first, null)
+    	
+    }
+}

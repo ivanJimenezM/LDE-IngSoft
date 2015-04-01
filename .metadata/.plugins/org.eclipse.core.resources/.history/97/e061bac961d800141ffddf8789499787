@@ -1,0 +1,12 @@
+package IIS.LDE;
+
+public class Node<T> {
+
+	private T data;
+	private Node<T> prev, next;
+	
+	public Node(){
+		
+	}
+	
+}

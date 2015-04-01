@@ -1,0 +1,49 @@
+package IIS.LDE;
+
+public class DoublyLinkedList<T> {
+
+	private Node<T> firstNode, lastNode;
+	
+	public DoublyLinkedList(){
+		this.firstNode = null;
+		this.lastNode = null;
+	}
+	
+	public Node<T> getFirstNode() {
+		return firstNode;
+	}
+	
+	public Node<T> getLastNode() {
+		return lastNode;
+	}
+	
+	public void setFirstNode(Node<T> firstNode) {
+		this.firstNode = firstNode;
+	}
+	
+	public void setLastNode(Node<T> lastNode) {
+		this.lastNode = lastNode;
+	}
+	
+	public void fordwards(){
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

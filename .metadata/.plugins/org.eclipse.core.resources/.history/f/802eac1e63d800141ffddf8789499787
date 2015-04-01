@@ -1,0 +1,7 @@
+package IIS.LDE;
+
+public class DoublyLinkedList {
+
+	private Node<T> firstNode, lastNode;
+	
+}

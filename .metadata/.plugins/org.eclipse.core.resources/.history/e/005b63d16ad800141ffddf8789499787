@@ -1,0 +1,28 @@
+package IIS.LDE;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        
+    	DoublyLinkedList<Integer> listaDoble = new DoublyLinkedList<Integer>();
+    	
+    	Node<Integer> first = new Node<Integer>(2, null, null);
+    	
+    	listaDoble.setFirstNode(first);
+    	listaDoble.insertAfter(first,new Node<Integer>(6,first,null));
+    	
+    	System.out.println("ForWards: ");
+    	listaDoble.forwards();
+    	
+    	System.out.println("BackWards: ");
+    	listaDoble.backwards();
+    	
+    	
+    	
+    }
+}

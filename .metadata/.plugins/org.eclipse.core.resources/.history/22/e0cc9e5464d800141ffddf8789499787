@@ -1,0 +1,65 @@
+package IIS.LDE;
+
+public class DoublyLinkedList<T> {
+
+	private Node<T> firstNode, lastNode;
+	
+	public DoublyLinkedList(){
+		this.firstNode = null;
+		this.lastNode = null;
+	}
+	
+	public Node<T> getFirstNode() {
+		return firstNode;
+	}
+	
+	public Node<T> getLastNode() {
+		return lastNode;
+	}
+	
+	public void setFirstNode(Node<T> firstNode) {
+		this.firstNode = firstNode;
+	}
+	
+	public void setLastNode(Node<T> lastNode) {
+		this.lastNode = lastNode;
+	}
+	
+	public void forwards(){
+		
+		Node<T> aux = this.firstNode;
+		
+		while(aux!=null){
+			System.out.println(aux.getData());
+			aux = aux.getNext();
+		}
+	}
+	
+	public void backwards(){
+		
+		Node<T> aux = this.lastNode;
+		
+		while(aux!=null){
+			System.out.println(aux.getData());
+			aux = aux.getPrev();
+		}
+	}	
+	
+	
+	public void insertAfter(){
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
