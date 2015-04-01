@@ -1,0 +1,15 @@
+2015-04-01 12:45:56,178 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\pom.xml
+2015-04-01 12:46:03,134 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IIS:LDE:0.0.1-SNAPSHOT @ C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\pom.xml.
+2015-04-01 12:46:03,764 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IIS:LDE:0.0.1-SNAPSHOT @ C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\pom.xml.
+2015-04-01 12:46:04,560 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LDE/src/main/java
+2015-04-01 12:46:04,567 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LDE/src/test/java
+2015-04-01 12:46:05,226 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2015-04-01 12:46:07,699 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: IIS:LDE:0.0.1-SNAPSHOT @ C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\pom.xml.
+2015-04-01 12:46:07,847 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 12:46:07,847 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 12:46:07,850 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 12:46:07,850 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources
+2015-04-01 12:46:12,621 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 12:46:12,622 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\main\resources
+2015-04-01 12:46:12,625 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-04-01 12:46:12,625 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\LDE\src\test\resources

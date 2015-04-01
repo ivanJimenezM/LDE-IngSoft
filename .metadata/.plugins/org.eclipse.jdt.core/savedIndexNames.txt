@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\Ivan\Desktop\PracticaLDE\LDE-IngSoft\.metadata\.plugins\org.eclipse.jdt.core
+1270621372.index
